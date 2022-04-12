@@ -1,1 +1,76 @@
 /* Copy and paste your CSS from CodePen into here */
+body {
+    font-family: sans-serif;
+     background-color: #cfc1b4;
+     background: linear-gradient(180deg, #941212, #c9480c);
+     
+   }
+   header {
+     color: black;
+     text-align: center;
+     border-radius: 10px;
+     padding: 10px;
+     margin: 0 20px 20px 20px;
+     line-height: 0.5;
+     width: 95%;
+     
+   }
+       
+   h1 {
+         font-family: sans-serif;
+         }
+       
+   h2 {
+         font-family: sans-serif;
+         }
+   
+   h3 {
+         font-family: sans-serif;
+         }   
+   
+   #tribute-info {
+     color: black;
+     text-align: left;
+     width: 40%;
+     position: relative;
+     left: 30%;
+    }
+   
+   #img-caption {
+     text-align: center;
+     color: black;
+   }
+       
+       
+   img {
+     height: auto;
+     max-width: 90vmin;
+     border-radius: 10px;
+     display:block;
+     margin: 0 auto;
+   }
+   #image {
+     max-width: 90vmin;
+     height: auto;
+     display:block;
+     margin: 0 auto;
+   }
+   
+   #Timeline {
+     background-color: #ad9e9e;
+     border-radius: 10px;
+     padding: 10px;
+     margin: 0 20px 20px 20px;
+   }
+   #Background {
+     background-color: #ad9e9e;
+     border-radius: 10px;
+     padding: 40px;
+     margin: 0 20px 20px 20px;
+   }
+   #Characters {
+     background-color: #ad9e9e;
+     border-radius: 10px;
+     padding: 40px;
+     margin: 0 20px 20px 20px;
+   }
